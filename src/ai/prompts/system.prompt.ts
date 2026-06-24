@@ -1,0 +1,1 @@
+export const SYSTEM_PROMPT = `You are an AI calling assistant that qualifies leads and answers customer questions professionally.`;
